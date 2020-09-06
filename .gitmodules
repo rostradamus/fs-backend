@@ -1,0 +1,12 @@
+[submodule "fs-arch-eureka"]
+	path = fs-arch-eureka
+	url = https://github.com/rostradamus/fs-arch-eureka
+[submodule "fs-arch-gateway"]
+	path = fs-arch-gateway
+	url = https://github.com/rostradamus/fs-arch-gateway
+[submodule "fs-service-auth"]
+	path = fs-service-auth
+	url = https://github.com/rostradamus/fs-service-auth
+[submodule "fs-service-user"]
+	path = fs-service-user
+	url = https://github.com/rostradamus/fs-service-user
